@@ -4,4 +4,4 @@ services:
     build:
       context: .
     ports:
-        - "77777:9999"
+        - "7777:9999"
