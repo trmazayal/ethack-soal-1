@@ -8,7 +8,7 @@ Ethical Hacking 2023
 ---
 ## Compiling
 ```
-gcc soal.c -o soal.out -fno-toplevel-reorder
+gcc chall.c -o chall -fno-toplevel-reorder
 ```
 ---
 ## Deployment
